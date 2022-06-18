@@ -1,8 +1,11 @@
-## SeedCipher
+## About:
 
-You can use the [editor on GitHub](https://github.com/seedlock/seedcipher/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+How to use [userguide](https://seedlock.github.io) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Privacy Policy [Privacy Policy](https://seedlock.github.io)
+
+Terms of use [Terms of Use](https://seedlock.github.io)
+
 
 ### Markdown
 
