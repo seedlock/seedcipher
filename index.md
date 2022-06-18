@@ -1,13 +1,17 @@
-Seedcipher
-
-## About
 
 [Privacy Policy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
 
+## Userguide
 
-### Userguide
+1. Test test test
+2. Test test test
+3. Test test test
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+thie is a test okay 
+another test
+
+```
 
 ```markdown
 Syntax highlighted code block
