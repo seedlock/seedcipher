@@ -1,5 +1,6 @@
 
 
+
 ### Userguide
 
 1. Test test test
@@ -28,8 +29,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Support or Contact
 
-<a href="mailto:seedcihper@proton.me">Email for support link</a>
+If you have any suggestions or require support please email to: seedcipher@proton.me
 
 [Privacy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
