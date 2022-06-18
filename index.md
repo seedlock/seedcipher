@@ -1,11 +1,11 @@
-#Seedcipher
+Seedcipher
 
-## Seedcipher App
+## About
 
 [Privacy Policy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
 
 
-### Markdown
+### Userguide
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
