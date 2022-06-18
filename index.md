@@ -2,7 +2,7 @@
 
 How to use [userguide](https://seedlock.github.io) to maintain and preview the content for your website in Markdown files.
 
-Privacy Policy [Privacy Policy](https://seedlock.github.io)
+Privacy Policy [Privacy Policy](https://seedlock.github.io/seedcipher/terms/terms.md)
 
 Terms of use [Terms of Use](https://seedlock.github.io)
 
