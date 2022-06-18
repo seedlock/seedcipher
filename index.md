@@ -28,6 +28,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Support or Contact
 
-[Privacy Policy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
+<a href="mailto:seedcihper@proton.me">Email for support link</a>
+
+[Privacy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
