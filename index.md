@@ -1,7 +1,6 @@
 
 
 
-### Welcome to Seedcipher
 
 ## About
 
