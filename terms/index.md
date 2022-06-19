@@ -1,6 +1,7 @@
-##Privacy Policy
-
-###privacy Policy
+---
+theme: jekyll-theme-cayman
+title: Terms of Use
+---
 
 
 Hello cruel world.
