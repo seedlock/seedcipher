@@ -26,7 +26,7 @@ If you have any suggestions or require support please send an email to: seedciph
 
 ## Privacy & Terms of Use
 
-[Privacy & Terms of Use](https://seedlock.github.io/seedcipher/privacy.md)
+[Privacy & Terms of Use](https://seedlock.github.io/seedcipher/terms/privacy.html)
 
 
 
