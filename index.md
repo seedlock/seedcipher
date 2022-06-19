@@ -1,7 +1,7 @@
 
 
-###### About
-Seedcipher app is a tool to help you protect your cryptocurrency wallet seedphrase.
+##### About
+Seedcipher app is a tool to help manage and protect your cryptocurrency seedphrase.
 
 ## Userguide
 
@@ -16,9 +16,9 @@ Seedcipher app is a tool to help you protect your cryptocurrency wallet seedphra
 
 ***Important next steps***
 
-8. Perform a restore from the details screen of your newly entered wallet. Ensure that it does restore.
-9. Perform a restore from a printed or saved QRcode of your newly entered wallet. Ensure that it does restore.
-10. Backup your database and store it and your codes somewhere safe.
+7. Perform a restore from the details screen of your newly entered wallet. Ensure that it does restore.
+8. Perform a restore from a printed or saved QRcode of your newly entered wallet. Ensure that it does restore.
+9. Backup your database and store it and your codes somewhere safe.
 
 ```markdown
 Syntax highlighted code block
