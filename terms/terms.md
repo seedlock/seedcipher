@@ -1,6 +1,6 @@
-##Privacy Policy##
+##Privacy Policy
 
-###privacy Policy###
+###privacy Policy
 
 
 Hello cruel world.
