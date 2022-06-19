@@ -1,7 +1,4 @@
 
-
-##
-
 ## About
 
 Seedcipher app is a tool to help you protect your cryptocurrency wallet seedphrase.
