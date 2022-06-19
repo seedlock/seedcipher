@@ -1,7 +1,7 @@
 
 
 ##### About
-Seedcipher app is a tool to help manage and protect your cryptocurrency seedphrase.
+Seedcipher is a tool to help manage and protect your cryptocurrency seedphrase.
 
 ## Userguide
 
