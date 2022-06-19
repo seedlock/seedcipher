@@ -20,6 +20,12 @@ Seedcipher is a tool to help manage and protect your cryptocurrency seedphrase.
 8. Perform a restore from a printed or saved QRcode of your newly entered wallet. Ensure that it does restore.
 9. Backup your database and store it and your codes somewhere safe.
 
+## Contact or Support
+
+If you have any suggestions or require support please send an email to: seedcipher@proton.me
+[Privacy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
+
+
 ```markdown
 Syntax highlighted code block
 
@@ -40,9 +46,5 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Contact or Support
 
-If you have any suggestions or require support please send an email to: seedcipher@proton.me
-
-[Privacy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
 
