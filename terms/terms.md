@@ -1,6 +1,6 @@
 
 ---
-title: Seedcipher
+title: Terms of Use
 ---
 
 
