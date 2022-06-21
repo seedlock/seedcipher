@@ -1,7 +1,7 @@
 
 
 ##### About
-Seedcipher is a tool to help manage and protect your cryptocurrency seedphrase.
+A tool to help manage and protect your cryptocurrency seedphrase.
 
 ## Wallet Entry Instructions
 
