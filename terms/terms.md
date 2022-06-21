@@ -4,7 +4,7 @@ title: Terms of Use
 
 ## Privacy Policy
 
-Seedcipher collects no data, requires no data, wants no data, has no idea who you are, where you are, or what you are, and that's the way it shall forever remain and the way it shall be. Although, you are welcome to send an email :-)
+Seedcipher collects no data, requires no data, wants no data, has no idea who you are, where you are, or what you are, and that's the way it shall forever remain and the way it shall be.
 
 ## Terms of Use
 
